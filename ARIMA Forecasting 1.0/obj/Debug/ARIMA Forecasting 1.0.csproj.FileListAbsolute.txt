@@ -1,0 +1,19 @@
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\ARIMA Forecasting 1.0.exe.config
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\ARIMA Forecasting 1.0.exe
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\ARIMA Forecasting 1.0.pdb
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA Forecasting 1.0.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA_Forecasting_1._0.arimaForecastingInicio.resources
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA_Forecasting_1._0.Properties.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA Forecasting 1.0.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA Forecasting 1.0.exe
+c:\users\david\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA Forecasting 1.0.pdb
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA_Forecasting_1._0.cargadorDeDatosDeExcel.resources
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA_Forecasting_1._0.seleccionadorDeFecha.resources
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA_Forecasting_1._0.CargadorDeArchivos.resources
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\DynamicInterop.dll
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\RDotNet.dll
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\DynamicInterop.xml
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\RDotNet.xml
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\David\documents\visual studio 2015\Projects\ARIMA Forecasting 1.0\ARIMA Forecasting 1.0\obj\Debug\ARIMA_Forecasting_1._0.InformacionDeModelosUsados.resources
